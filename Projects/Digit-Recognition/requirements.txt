@@ -5,3 +5,4 @@ matplotlib
 tensorflow
 scikit-learn
 PyQt5
+pillow
